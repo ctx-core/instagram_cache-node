@@ -1,6 +1,13 @@
 # @ctx-core/instagram_cache-node
 
+## 0.0.2
+
+### Patch Changes
+
+- version bump
+
 ## 0.0.1
+
 ### Patch Changes
 
 - fix: build
