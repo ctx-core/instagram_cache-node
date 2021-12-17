@@ -1,5 +1,16 @@
 # @ctx-core/instagram_cache-node
 
+## 0.0.3
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.17
+  - @ctx-core/instagram@6.0.99
+  - @ctx-core/instagram_cache@10.0.9
+  - @ctx-core/sleep@8.0.30
+
 ## 0.0.2
 
 ### Patch Changes
