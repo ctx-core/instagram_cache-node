@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram_cache-node",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"description": "instagram scraper, account cache, & gallery component",
 	"homepage": "https://github.com/ctx-core/instagram_cache-node#readme",
 	"type": "module",
@@ -17,7 +17,7 @@
 	"scripts": {
 		"build": "npm run compile",
 		"clean": "rimraf lib && npm run clean:tsbuildinfo",
-		"clean:tsbuildinfo": "rm -f tsconfig.tsbuildinfo && rm -f lib/**/*.d.ts",
+		"clean:tsbuildinfo": "rimraf tsconfig.tsbuildinfo && rimraf lib/**/*.d.ts",
 		"compile": "npm run compile:source && npm run compile:declaration",
 		"compile:source": "swc src --out-dir lib --copy-files --source-maps --config-file .swcrc",
 		"compile:declaration": "npm run clean:tsbuildinfo && tsc --declaration --emitDeclarationOnly --declarationDir lib",
@@ -29,9 +29,9 @@
 		"@aws-sdk/client-dynamodb": "^3.45.0",
 		"@aws-sdk/client-s3": "^3.45.0",
 		"@ctx-core/cli-args": "workspace:^11.0.19",
-		"@ctx-core/instagram": "workspace:^6.0.103",
-		"@ctx-core/instagram_cache": "workspace:^11.0.5",
-		"@ctx-core/sleep": "workspace:^8.0.32",
+		"@ctx-core/instagram": "workspace:^6.0.104",
+		"@ctx-core/instagram_cache": "workspace:^11.0.6",
+		"@ctx-core/sleep": "workspace:^8.0.33",
 		"jsdom": "^19.0.0"
 	},
 	"devDependencies": {

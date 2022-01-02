@@ -1,5 +1,16 @@
 # @ctx-core/instagram_cache-node
 
+## 0.0.9
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/instagram@6.0.104
+  - @ctx-core/instagram_cache@11.0.6
+  - @ctx-core/sleep@8.0.33
+
 ## 0.0.8
 
 ### Patch Changes
