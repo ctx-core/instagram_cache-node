@@ -26,8 +26,8 @@
 		"start": "./bin/instagram_cache.js"
 	},
 	"dependencies": {
-		"@aws-sdk/client-dynamodb": "^3.47.1",
-		"@aws-sdk/client-s3": "^3.47.1",
+		"@aws-sdk/client-dynamodb": "^3.48.0",
+		"@aws-sdk/client-s3": "^3.48.0",
 		"@ctx-core/cli-args": "workspace:^11.0.24",
 		"@ctx-core/instagram": "workspace:^6.0.112",
 		"@ctx-core/instagram_cache": "workspace:^11.0.18",
