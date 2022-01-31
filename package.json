@@ -30,7 +30,7 @@
 		"@aws-sdk/client-s3": "^3.49.0",
 		"@ctx-core/cli-args": "workspace:^11.0.24",
 		"@ctx-core/instagram": "workspace:^6.1.5",
-		"@ctx-core/instagram_cache": "workspace:^13.0.1",
+		"@ctx-core/instagram_cache": "workspace:^13.0.2",
 		"@ctx-core/sleep": "workspace:^8.0.36",
 		"jsdom": "^19.0.0"
 	},
