@@ -36,7 +36,7 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.151",
+		"@swc/core": "^1.2.152",
 		"@types/jsdom": "^16.2.14",
 		"@types/selenium-webdriver": "^4.0.18",
 		"rimraf": "^3.0.2",
