@@ -35,7 +35,7 @@
 	"devDependencies": {
 		"@aws-sdk/types": "^3.78.0",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.175",
+		"@swc/core": "^1.2.177",
 		"@types/jsdom": "^16.2.14",
 		"@types/selenium-webdriver": "^4.0.19",
 		"rimraf": "^3.0.2",
