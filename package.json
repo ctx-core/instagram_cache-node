@@ -24,8 +24,8 @@
 		"start": "./bin/instagram_cache.js"
 	},
 	"dependencies": {
-		"@aws-sdk/client-dynamodb": "^3.85.0",
-		"@aws-sdk/client-s3": "^3.86.0",
+		"@aws-sdk/client-dynamodb": "^3.87.0",
+		"@aws-sdk/client-s3": "^3.87.0",
 		"@ctx-core/cli-args": "^11.0.35",
 		"@ctx-core/instagram": "^6.1.30",
 		"@ctx-core/instagram_cache": "^13.0.51",
@@ -35,7 +35,7 @@
 	"devDependencies": {
 		"@aws-sdk/types": "^3.78.0",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.179",
+		"@swc/core": "^1.2.181",
 		"@types/jsdom": "^16.2.14",
 		"@types/selenium-webdriver": "^4.0.20",
 		"rimraf": "^3.0.2",
