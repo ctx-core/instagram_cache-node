@@ -37,7 +37,7 @@
 		"@swc/cli": "^0.1.57",
 		"@swc/core": "^1.2.194",
 		"@types/jsdom": "^16.2.14",
-		"@types/selenium-webdriver": "^4.1.0",
+		"@types/selenium-webdriver": "^4.1.1",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
