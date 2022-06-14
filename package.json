@@ -27,8 +27,8 @@
 		"@aws-sdk/client-dynamodb": "^3.109.0",
 		"@aws-sdk/client-s3": "^3.109.0",
 		"@ctx-core/cli-args": "^11.0.41",
-		"@ctx-core/instagram": "^6.1.38",
-		"@ctx-core/instagram_cache": "^13.1.5",
+		"@ctx-core/instagram": "^6.1.39",
+		"@ctx-core/instagram_cache": "^13.1.6",
 		"@ctx-core/sleep": "^8.0.37",
 		"jsdom": "^19.0.0"
 	},
