@@ -1,5 +1,15 @@
 # @ctx-core/instagram_cache-node
 
+## 0.0.168
+
+### Patch Changes
+
+- jsdom: ^20.0.3 -> ^21.0.0
+- Updated dependencies
+  - @ctx-core/cli-args@11.0.54
+  - @ctx-core/instagram@6.1.59
+  - @ctx-core/instagram_cache@13.1.100
+
 ## 0.0.167
 
 ### Patch Changes
