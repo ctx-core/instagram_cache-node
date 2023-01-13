@@ -1,5 +1,13 @@
 # @ctx-core/instagram_cache-node
 
+## 0.0.186
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+- Updated dependencies
+  - @ctx-core/sleep@8.0.38
+
 ## 0.0.185
 
 ### Patch Changes
