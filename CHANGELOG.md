@@ -1,5 +1,11 @@
 # @ctx-core/instagram_cache-node
 
+## 0.0.197
+
+### Patch Changes
+
+- jsdom: ^21.0.0 -> ^21.1.0
+
 ## 0.0.196
 
 ### Patch Changes
