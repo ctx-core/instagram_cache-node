@@ -1,5 +1,15 @@
 # @ctx-core/instagram_cache-node
 
+## 0.0.204
+
+### Patch Changes
+
+- @aws-sdk/client-dynamodb: ^3.256.0 -> ^3.257.0
+- @aws-sdk/client-s3: ^3.256.0 -> ^3.257.0
+- @aws-sdk/types: ^3.254.0 -> ^3.257.0
+- Updated dependencies
+  - @ctx-core/instagram_cache@13.1.133
+
 ## 0.0.203
 
 ### Patch Changes
