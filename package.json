@@ -35,10 +35,10 @@
 	"devDependencies": {
 		"@aws-sdk/types": "^3.254.0",
 		"@swc/cli": "^0.1.59",
-		"@swc/core": "^1.3.27",
+		"@swc/core": "^1.3.28",
 		"@types/jsdom": "^20.0.1",
 		"@types/selenium-webdriver": "^4.1.10",
-		"rimraf": "^4.1.1",
+		"rimraf": "^4.1.2",
 		"typescript": "next"
 	},
 	"svelte": "./lib/index.js",
