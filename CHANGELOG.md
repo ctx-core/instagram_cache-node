@@ -1,5 +1,11 @@
 # @ctx-core/instagram_cache-node
 
+## 0.0.246
+
+### Patch Changes
+
+- @ctx-core/sleep: ^8.0.41 -> ^8.1.0
+
 ## 0.0.245
 
 ### Patch Changes
