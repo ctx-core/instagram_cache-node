@@ -1,5 +1,12 @@
 # @ctx-core/instagram_cache-node
 
+## 0.1.90
+
+### Patch Changes
+
+- @ctx-core/instagram_cache: ^14.0.83 -> ^14.0.84
+- @ctx-core/instagram: ^6.2.66 -> ^6.2.67
+
 ## 0.1.89
 
 ### Patch Changes
