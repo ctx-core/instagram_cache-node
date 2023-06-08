@@ -1,5 +1,15 @@
 # @ctx-core/instagram_cache-node
 
+## 0.1.279
+
+### Patch Changes
+
+- selenium-webdriver: ^4.9.2 -> ^4.10.0
+- @aws-sdk/client-s3: ^3.347.1 -> ^3.348.0
+- @aws-sdk/client-dynamodb: ^3.347.1 -> ^3.348.0
+- Updated dependencies
+  - @ctx-core/instagram_cache@14.0.262
+
 ## 0.1.278
 
 ### Patch Changes
