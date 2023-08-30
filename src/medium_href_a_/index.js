@@ -1,5 +1,5 @@
 import { import_meta_env_ } from '@ctx-core/env'
-import { medium_pathname_a_ } from '@ctx-core/instagram_cache'
+import { medium_pathname_a__new } from '@ctx-core/instagram_cache'
 import { sleep } from '@ctx-core/sleep'
 import webdriver from 'selenium-webdriver'
 /**
@@ -11,7 +11,7 @@ export async function medium_href_a_(opts = {}) {
 		INSTAGRAM_NAME = import_meta_env_().INSTAGRAM_NAME,
 		reload,
 	} = opts
-	const current_medium_pathname_a = reload ? [] : await medium_pathname_a_()
+	const current_medium_pathname_a = reload ? [] : await medium_pathname_a__new()
 	const current_media_set = new Set(current_medium_pathname_a)
 	const chrome_Capabilities = webdriver.Capabilities.chrome()
 	chrome_Capabilities.set('chromeOptions', {
