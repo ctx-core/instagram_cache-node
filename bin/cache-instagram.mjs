@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { param_r_ } from '@ctx-core/cli-args'
-import { webdriver__scrape__cache__put } from '../lib/index.js'
+import { webdriver__scrape__cache__put } from '../index.js'
 const { reload, help } = param_r_({
 	reload: '-r, --reload',
 	help: '-h, --help',
