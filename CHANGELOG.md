@@ -1,5 +1,17 @@
 # @ctx-core/instagram_cache-node
 
+## 0.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/cli-args@11.4.2
+  - @ctx-core/env@17.4.2
+  - @ctx-core/instagram@6.3.2
+  - @ctx-core/instagram_cache@15.1.2
+  - @ctx-core/sleep@8.2.2
+
 ## 0.2.1
 
 ### Patch Changes
