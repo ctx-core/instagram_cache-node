@@ -1,5 +1,15 @@
 # @ctx-core/instagram_cache-node
 
+## 0.2.94
+
+### Patch Changes
+
+- @ctx-core/cli-args: ^11.4.39 -> ^11.4.40
+- @ctx-core/sleep: ^8.2.39 -> ^8.2.40
+- @ctx-core/instagram: ^6.3.76 -> ^6.3.77
+- @ctx-core/instagram_cache: ^15.1.87 -> ^15.1.88
+- @ctx-core/env: ^17.4.43 -> ^17.4.44
+
 ## 0.2.93
 
 ### Patch Changes
