@@ -1,6 +1,6 @@
 import { import_meta_env_ } from '@ctx-core/env'
 import { medium_pathname_a__new } from '@ctx-core/instagram_cache'
-import { sleep } from '@ctx-core/sleep'
+import { sleep } from 'ctx-core/sleep'
 import webdriver from 'selenium-webdriver'
 /**
  * @param opts{import('./index.d.ts').medium_href_a__opts_T}
