@@ -1,5 +1,5 @@
 import { PutObjectCommand, S3Client } from '@aws-sdk/client-s3'
-import { import_meta_env_ } from '@ctx-core/env'
+import { import_meta_env_ } from 'ctx-core/env'
 const Bucket = import_meta_env_().S3_BUCKET
 export async function s3__medium_pathname_a__put(medium_pathname_a, opts = {}) {
 	const {

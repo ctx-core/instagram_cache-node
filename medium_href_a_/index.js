@@ -1,5 +1,5 @@
-import { import_meta_env_ } from '@ctx-core/env'
 import { medium_pathname_a__new } from '@ctx-core/instagram_cache'
+import { import_meta_env_ } from 'ctx-core/env'
 import { sleep } from 'ctx-core/sleep'
 import webdriver from 'selenium-webdriver'
 /**

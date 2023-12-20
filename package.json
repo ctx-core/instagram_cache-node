@@ -36,7 +36,6 @@
 	"dependencies": {
 		"@aws-sdk/client-dynamodb": "^3.477.0",
 		"@aws-sdk/client-s3": "^3.477.0",
-		"@ctx-core/cli-args": "^11.4.57",
 		"@ctx-core/env": "^17.4.61",
 		"@ctx-core/instagram": "^6.3.111",
 		"@ctx-core/instagram_cache": "^15.1.129",
