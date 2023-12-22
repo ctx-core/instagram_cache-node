@@ -62,9 +62,6 @@ return JSON.stringify(
 		}
 		if (current_set_any_(href_a)) break
 		await sleep(500)
-		console.debug({
-			'medium_href_a.length': medium_href_a.length
-		})
 	} while (iteration.iteration_count < 10)
 	await driver.quit()
 	return medium_href_a
