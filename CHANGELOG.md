@@ -1,5 +1,11 @@
 # @ctx-core/instagram_cache-node
 
+## 0.2.282
+
+### Patch Changes
+
+- @aws-sdk/types: ^3.496.0 -> ^3.502.0
+
 ## 0.2.281
 
 ### Patch Changes
