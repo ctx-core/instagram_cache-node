@@ -1,8 +1,27 @@
 {
 	"name": "@ctx-core/instagram_cache-node",
-	"version": "0.2.343",
+	"version": "0.2.344",
 	"description": "instagram scraper, account cache, & gallery component",
+	"keywords": [
+		"ctx-core",
+		"instagram",
+		"cache",
+		"nodejs"
+	],
 	"homepage": "https://github.com/ctx-core/instagram_cache-node#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/instagram_cache-node/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/instagram_cache-node.git"
+	},
+	"license": "Apache-2.0",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-instagram_cache-node@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -37,10 +56,10 @@
 	"dependencies": {
 		"@aws-sdk/client-dynamodb": "^3.535.0",
 		"@aws-sdk/client-s3": "^3.536.0",
-		"@ctx-core/env": "^17.6.38",
-		"@ctx-core/instagram": "^6.3.225",
-		"@ctx-core/instagram_cache": "^15.1.261",
-		"ctx-core": "^6.6.0",
+		"@ctx-core/env": "^17.6.39",
+		"@ctx-core/instagram": "^6.3.226",
+		"@ctx-core/instagram_cache": "^15.1.262",
+		"ctx-core": "^6.6.1",
 		"jsdom": "^24.0.0",
 		"selenium-webdriver": "^4.18.1"
 	},
@@ -53,13 +72,6 @@
 		"tsx": "^4.7.1",
 		"typescript": "next",
 		"uvu": "^0.5.6"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/instagram_cache-node.git"
-	},
-	"bugs": {
-		"url": "https://github.com/ctx-core/instagram_cache-node/issues"
 	},
 	"sideEffects": false
 }
