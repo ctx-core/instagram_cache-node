@@ -1,5 +1,11 @@
 # @ctx-core/instagram_cache-node
 
+## 0.2.374
+
+### Patch Changes
+
+- selenium-webdriver: ^4.19.0 -> ^4.20.0
+
 ## 0.2.373
 
 ### Patch Changes
