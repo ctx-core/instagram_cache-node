@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram_cache-node",
-	"version": "0.2.400",
+	"version": "0.2.401",
 	"description": "instagram scraper, account cache, & gallery component",
 	"keywords": [
 		"ctx-core",
@@ -65,7 +65,7 @@
 	},
 	"devDependencies": {
 		"@aws-sdk/types": "^3.577.0",
-		"@types/jsdom": "^21.1.6",
+		"@types/jsdom": "^21.1.7",
 		"@types/selenium-webdriver": "^4.1.22",
 		"c8": "^9.1.0",
 		"check-dts": "^0.8.0",
