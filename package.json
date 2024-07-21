@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram_cache-node",
-	"version": "0.2.434",
+	"version": "0.2.435",
 	"description": "instagram scraper, account cache, & gallery component",
 	"keywords": [
 		"ctx-core",
@@ -54,14 +54,14 @@
 		"start": "./bin/instagram_cache.js"
 	},
 	"dependencies": {
-		"@aws-sdk/client-dynamodb": "^3.614.0",
-		"@aws-sdk/client-s3": "^3.614.0",
+		"@aws-sdk/client-dynamodb": "^3.616.0",
+		"@aws-sdk/client-s3": "^3.616.0",
 		"@ctx-core/env": "^17.6.84",
 		"@ctx-core/instagram": "^6.3.271",
-		"@ctx-core/instagram_cache": "^15.1.330",
+		"@ctx-core/instagram_cache": "^15.1.331",
 		"ctx-core": "^7.2.28",
 		"jsdom": "^24.1.0",
-		"selenium-webdriver": "^4.22.0"
+		"selenium-webdriver": "^4.23.0"
 	},
 	"devDependencies": {
 		"@aws-sdk/types": "^3.609.0",
